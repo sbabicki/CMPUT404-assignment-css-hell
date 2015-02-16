@@ -1,0 +1,36 @@
+body {
+	margin:5%; 
+    background-color: #FF00EA;
+	text-align:justify;
+}
+
+#about {
+	color: blue;
+}
+
+#pic {
+	float: right;
+	padding: 2em;
+}
+
+#history {
+	color: red;
+}
+
+#offer {
+	color: yellow;
+}
+
+#sidebar {
+	color: orange;
+	float: right;
+}
+
+p {
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+    margin-left: 1em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: "Courier New", Courier, monospace;
+}
