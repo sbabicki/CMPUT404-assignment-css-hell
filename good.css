@@ -1,31 +1,43 @@
 body {
-	margin:5%; 
-    background-color: #FFFFEA;
-	text-align:justify;
+	font-family: "Times New Roman", Times, serif;
+}
+
+h1, h2, h3, h4, h5, h6 {	
+}
+
+p { 
+}
+
+li {
+	margin-left: 1em;
+}
+
+.content {
+	position: relative;
+	margin-left: 15.5em;
 }
 
 #about {
-	
 }
 
 #history {
-	
 }
 
 #offer {
-	
 }
 
-#sidebar {
-	
+.sidebar {
+	position: absolute;
+	top: 0.5em;
+	bottom: 0.5em;
+	left: 0.5em;
+	width: 14em;
+	background-color:pink;
 }
 
-p {
-	font-family: "Times New Roman", Times, serif;
-    margin-left: 1em;
+#side {
+	margin-left: 1em;
 }
 
-h1, h2, h3, h4, h5, h6 {
-	font-family: "Times New Roman", Times, serif;
-	color: black;
+#pic {
 }

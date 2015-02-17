@@ -1,16 +1,24 @@
 body {
 	margin:5%; 
-    background-color: #FF00EA;
-	text-align:justify;
+    background-image: url("background.jpg");
+	text-align:center;
+}
+
+p {
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: "Courier New", Courier, monospace;
+}
+
+.content {
+	position: relative;
+	margin-left: 15.5em;
 }
 
 #about {
 	color: blue;
-}
-
-#pic {
-	float: right;
-	padding: 2em;
 }
 
 #history {
@@ -21,16 +29,19 @@ body {
 	color: yellow;
 }
 
-#sidebar {
+.sidebar {
+	position: absolute;
+	top: 0.5em;
+	bottom: 0.5em;
+	left: 0.5em;
+	width: 14em;
+}
+
+#side {
 	color: orange;
-	float: right;
 }
 
-p {
-	font-family: "Comic Sans MS", "Comic Sans", cursive;
-    margin-left: 1em;
+#pic {
+	padding: 0.5em;
 }
 
-h1, h2, h3, h4, h5, h6 {
-	font-family: "Courier New", Courier, monospace;
-}
