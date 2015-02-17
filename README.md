@@ -22,3 +22,26 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 Code is licensed under the Apache 2.0 license.
 
 
+====================
+
+#Important Files:
+###/part1
+gutenberg_.html files -> sample books from gutenberg.org
+<br>
+gutenbergstyle.css -> my design
+
+###/part2
+index.html -> html file of the site
+<br>
+bad.css -> "bad" design
+<br>
+good.css -> "good" design
+<br>
+/images folder -> contains images referenced by css files and index.html
+
+#Resources Used: 
+http://www.colorsontheweb.com/colorwizard.asp
+
+#Collaborators:
+None
+

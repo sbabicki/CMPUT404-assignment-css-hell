@@ -1,15 +1,15 @@
 body {
 	font-family: "Times New Roman", Times, serif;
+	background-color: #A7C8D4;
 }
 
 h1, h2, h3, h4, h5, h6 {	
 }
 
-p { 
-}
 
-li {
+p, li {
 	margin-left: 1em;
+	color: #284752;
 }
 
 .content {
@@ -32,7 +32,7 @@ li {
 	bottom: 0.5em;
 	left: 0.5em;
 	width: 14em;
-	background-color:pink;
+	background-color:#629DB2;
 }
 
 #side {
