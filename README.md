@@ -26,7 +26,7 @@ Code is licensed under the Apache 2.0 license.
 
 #Part 1 HTML Modifications Description:
 For each file I only changed the lines in the head section that referenced css to the line 
-"<link rel="stylesheet" type="text/css" href="gutenbergstyle.css">"
+"\<link rel="stylesheet" type="text/css" href="gutenbergstyle.css"\>"
 
 #Important Files:
 ###/part1
